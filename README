@@ -1,2 +1,4 @@
 snippet generator (lib/snipper.rb) came from: https://gist.github.com/2652913
 
+install with pathogen or whatever other method you like, requires snipmate. 
+
